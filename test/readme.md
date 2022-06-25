@@ -1,0 +1,1 @@
+Repository ini digunakan untuk latihan course git dan github
